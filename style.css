@@ -1,0 +1,16 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: lab(0% 0 0)
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #40E0D0;
+}
+
